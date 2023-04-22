@@ -60,11 +60,11 @@ function App() {
               Created by Lochyb
             </p>
             <h2 className="mt-2 text-4xl font-bold tracking-tight text-transparent bg-gradient-to-tl from-emerald-400 to-blue-500 bg-clip-text sm:text-6xl">
-              Rearrangable Form List
+              Swappable Form List
             </h2>
             <p className="mt-6 text-lg leading-8 text-gray-600">
               A small program to pratice moving dom elements with javascript.
-              The below form is reorderabled via the arrow buttons.
+              The below form order is swappable via the arrow buttons.
             </p>
           </div>
         </div>
